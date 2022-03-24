@@ -47,7 +47,7 @@ class Campeones : AppCompatActivity() {
         grid.onItemClickListener = AdapterView.OnItemClickListener { parent, view, position, id ->
 
 
-
+                // esto sirve para el cambio de las paginas
             if(Tcampeones.get(position).nombre2=="Kayn"){
                 var intent = Intent(this,Descripcion::class.java)
 
