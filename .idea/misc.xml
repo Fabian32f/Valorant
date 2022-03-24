@@ -3,7 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_campeones.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_campeones_l.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_descripcion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_dkhazix.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_dyone.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_grid_l.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_grid_m.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_grid_s.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_grid_ta.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_grid_ti.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_ltipos_cam.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/template.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abimael/Desktop/Proyectos/Valorant/app/src/main/res/layout/templategrid.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

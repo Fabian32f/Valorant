@@ -4,8 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/logo4"
+    android:autofillHints="Contraseña"
+    android:background="@drawable/varus"
     tools:context=".MainActivity">
+
 
     <de.hdodenhof.circleimageview.CircleImageView
 
@@ -54,9 +56,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
+        android:hint="Usuario"
         android:inputType="textPersonName"
-        android:text="Nombre..."
         android:textColor="@color/white"
+        android:textColorHint="@color/white"
         android:textSize="24sp"
         android:textStyle="normal"
         app:layout_constraintEnd_toEndOf="parent"
@@ -83,9 +86,10 @@
         android:layout_width="276dp"
         android:layout_height="55dp"
         android:ems="10"
+        android:hint="Contraseña"
         android:inputType="textPassword"
-        android:text=".."
         android:textColor="@color/white"
+        android:textColorHint="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.669"
         app:layout_constraintStart_toStartOf="parent"

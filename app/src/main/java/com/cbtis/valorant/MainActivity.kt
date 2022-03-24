@@ -24,10 +24,10 @@ class MainActivity : AppCompatActivity() {
             val Usuario = tNombre.getText().toString()
             val pass: String = tContraseña.getText().toString()
             if (Usuario.equals("Fabian")&& pass.equals("123")){
-                /*
-                var intent = Intent(this,Generos::class.java)
 
-                startActivity(intent)*/
+                var intent = Intent(this,LTiposCam::class.java)
+
+                startActivity(intent)
                 Toast.makeText(this,"Bienvenido!", Toast.LENGTH_SHORT).show()
             }else{
                 Toast.makeText(this,"Usuario o Contraseña incorrectos!", Toast.LENGTH_SHORT).show()
